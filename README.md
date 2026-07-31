@@ -1,2 +1,3 @@
 # emelbelacsamana
 CS3 
+Hi! I am Mateo Lucas B. Lacsamana, a Grade 9 - Oxygen student, enthusiastic to learn about OOP and CS3.
